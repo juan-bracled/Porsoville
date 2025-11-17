@@ -1,0 +1,61 @@
+\documentclass[a4paper]{article}
+\usepackage{fontspec}
+\usepackage[margin=2.5cm]{geometry}
+\setmainfont{Porsoville}[]
+\usepackage{lipsum}
+\begin{document}
+\thispagestyle{empty}
+
+\begin{center}\huge \textsc{Porsoville}
+\end{center}
+
+
+\section*{Regular}
+\lipsum[1]
+
+\section*{Italic}
+\emph{\lipsum[2]}
+
+\section*{Bold}
+\textbf{\lipsum[1]}
+
+\section*{Bold Italic}
+\textbf{\emph{\lipsum[2]}}
+
+\section*{Small Caps}
+\textsc{\lipsum[1]}
+
+\section*{Italic Small Caps}
+\emph{\textsc{\lipsum[2]}}
+
+\section*{Bold Small Caps}
+\textsc{\textbf{\lipsum[1]}}
+
+\section*{Default Numbers}
+
+1234567890
+
+\section*{Oldstyle Numbers}
+
+\oldstylenums{1234567890}
+
+\section*{Lining Numbers}
+
+\liningnums{1234567890}
+
+\section*{Superior Numbers}
+
+X\textsuperscript{1234567890}
+
+\section*{Inferior Numbers}
+
+X\textsubscript{1234567890}
+
+\section*{GR}
+
+ α β γ δ ε ζ η θ ι κ λ μ ν ξ ο π ρ σ/ς {\char"03F2} τ υ φ χ ψ ω ϝ \\
+ Α Β Γ Δ Ε Ζ Η Θ Ι Κ Λ Μ Ν Ξ Ο Π Ρ Σ Τ Υ Φ Χ Ψ Ω Ϝ\\
+ \emph{α β γ δ ε ζ η θ ι κ λ μ ν ξ ο π ρ σ/ς {\char"03F2} τ υ φ χ ψ ω ϝ \\
+ Α Β Γ Δ Ε Ζ Η Θ Ι Κ Λ Μ Ν Ξ Ο Π Ρ Σ Τ Υ Φ Χ Ψ Ω Ϝ}\par
+
+\end{document}
