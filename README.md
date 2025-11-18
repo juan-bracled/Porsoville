@@ -1,1 +1,1 @@
-A modified BaskervilleF font with addition of modified GFS Porson. That combination produces an "anglo" appearance of classical editions from 20th century.
+A modified BaskervilleF font with addition of modified GFS Porson with papyrological support. That combination produces an "anglo" appearance of classical editions from 20th century. The font can be used for philological texts with somes glyps like "combiningdotbelow" (U+0323), "notcombiningdotbelow" (privative area, U+E5CE)", etc.
