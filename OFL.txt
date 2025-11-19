@@ -1,6 +1,7 @@
 Copyright (c) 2012, Pablo Impallari (www.impallari.com|impallari@gmail.com), 
-Copyright (c) 2012, Rodrigo Fuenzalida (www.rfuenzalida.com|hello¨rfuenzalida.com), with Reserved Font Name Libre Baskerville.
+Copyright (c) 2012, Rodrigo Fuenzalida (www.rfuenzalida.com|helloÂ¨rfuenzalida.com), with Reserved Font Name Libre Baskerville.
 Copyright (c) 2016, Michael Sharpe (msharpe@ucsd.edu) under reserved font name BaskervilleF.
+Copyright (c) 2025, Juan J. Bracamonte L. without reserved font name.
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
