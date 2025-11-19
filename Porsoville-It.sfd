@@ -3,7 +3,7 @@ FontName: Porsoville-It
 FullName: Porsoville It
 FamilyName: Porsoville
 Weight: Regular
-Copyright: Copyright (c) 2012, Pablo Impallari (www.impallari.com|impallari@gmail.com), \nCopyright (c) 2012, Rodrigo Fuenzalida (www.rfuenzalida.com|hello :rfuenzalida.com)\nCopyright (c) 2016--2019, Michael Sharpe (msharpe@ucsd.edu)\nCopyright (c) 2025, Ioannes Bracledius (ioannesbracledius@gmail.com).
+Copyright: Copyright (c) 2012, Pablo Impallari (www.impallari.com|impallari@gmail.com), \nCopyright (c) 2012, Rodrigo Fuenzalida (www.rfuenzalida.com|hello :rfuenzalida.com)\nCopyright (c) 2016--2019, Michael Sharpe (msharpe@ucsd.edu)\nCopyright (c) 2025, Juan J. Bracamonte L.
 Version: 1.000
 ItalicAngle: -15
 UnderlinePosition: -104
@@ -22,7 +22,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1354221960
-ModificationTime: 1763349125
+ModificationTime: 1763535656
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -5464,7 +5464,7 @@ SplineSet
  542.309570312 -8 662.309570312 165 702.309570312 339 c 0
  744.309570312 519 707.309570312 686 547.309570312 686 c 0
 EndSplineSet
-Validated: 524321
+Validated: 33
 Kerns2: 466 -33 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 465 -37 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 464 -23 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 427 -19 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 426 -7 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 397 21 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 394 21 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 346 -5 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 345 126 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 258 -14 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 245 126 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 227 47 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 225 47 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 223 47 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 221 47 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 176 -5 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 122 -10 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 106 -7 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 94 51 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 82 -5 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 75 126 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 72 47 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 67 -8 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 62 68 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 57 -31 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 55 -24 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 47 -11 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 25 -9 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 19 -9 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 14 1 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 11 63 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 Substitution2: "'sups' Superscript in Latin lookup 8 subtable" Q.superior
 Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 1 subtable" q.sc
@@ -8791,7 +8791,7 @@ SplineSet
  211 542 l 2
  220 575 230 608 230 624 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 Kerns2: 426 -9 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 294 -17 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 176 -39 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 122 -11 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 110 -32 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 106 -14 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 105 -32 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 87 -100 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 82 -25 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 81 -63 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 67 -14 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 34 -24 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 33 -10 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 24 -22 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 22 -42 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 18 -20 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 12 -20 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 8 -25 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 2 -23 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 1 -55 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 Substitution2: "'sups' Superscript in Latin lookup 8 subtable" K.superior
 Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 1 subtable" k.sc
@@ -63141,7 +63141,7 @@ SplineSet
  -285.666992188 -186 19.3330078125 -224 138.333007812 -224 c 0
  353.333007812 -224 564.333007812 -116 571.333007812 -66 c 1
 EndSplineSet
-Validated: 524297
+Validated: 9
 EndChar
 EndChars
 EndSplineFont
