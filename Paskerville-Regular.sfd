@@ -3,7 +3,7 @@ FontName: Paskerville-Regular
 FullName: Paskerville Regular
 FamilyName: Paskerville
 Weight: Regular
-Copyright: Copyright (c) 2012, Pablo Impallari (www.impallari.com|impallari@gmail.com),  Copyright (c) 2012, Rodrigo Fuenzalida (www.rfuenzalida.com|hello :rfuenzalida.com) Copyright (c) 2016--2019, Michael Sharpe (msharpe@ucsd.edu)\nCopyright (c) 2025, Ioannes Bracledes.
+Copyright: Copyright (c) 2012, Pablo Impallari (www.impallari.com|impallari@gmail.com),  Copyright (c) 2012, Rodrigo Fuenzalida (www.rfuenzalida.com|hello :rfuenzalida.com) Copyright (c) 2016--2019, Michael Sharpe (msharpe@ucsd.edu)\nCopyright (c) 2025, Ioannes Bracledus.
 Version: 1.000
 ItalicAngle: 0
 UnderlinePosition: -75
@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1354221900
-ModificationTime: 1769146188
+ModificationTime: 1773635052
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -264,7 +264,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 667 29 11
+WinInfo: 648 27 9
 BeginPrivate: 7
 BlueValues 47 [-10 0 428 438 471 481 530 540 695 705 735 745]
 OtherBlues 11 [-230 -220]
